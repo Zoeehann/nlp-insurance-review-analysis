@@ -1,0 +1,18 @@
+%%writefile requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+gensim
+pyLDAvis
+wordcloud
+spellchecker
+transformers==4.35.0
+torch
+tensorflow
+keras
+streamlit
+tqdm
+pickle5
