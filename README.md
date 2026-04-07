@@ -1,4 +1,3 @@
-%%writefile README.md
 # Insurance Customer Review Analysis - NLP Project 2
 
 ## Project Overview
